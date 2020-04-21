@@ -13,6 +13,7 @@ SpriteKit을 사용한 간단한 플레이를 할 수 있는 점프 게임입니
 1. Best Score를 보여줄 수 있는 Label 
 2. Game을 시작 할 수 있는 UIButton
 3. 자동으로 움직이는 케릭터 
+<img src="https://user-images.githubusercontent.com/49330255/79833000-8d530880-83e5-11ea-9e58-cb8192df7aa8.gif" height="200" width="100">
 
 ### 기능2: 
 1. Floor 생성 후 점프 이동
